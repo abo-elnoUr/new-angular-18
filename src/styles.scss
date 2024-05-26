@@ -1,0 +1,9 @@
+@use "../public/css/fonts";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Lato-Regular";
+}
